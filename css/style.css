@@ -192,6 +192,20 @@ font-size: 50px;
 }
 
 @media(min-width: 480px) and (min-width: 574px){
+.ourservices{
+ 	
+ 	height: 1000px;
+
+ }
+.portfolio{
+	height: 5800px;
+
+}
+
+.ourteam{
+	height: 1500px;
+}	
+		
 #collapsenavbar li a:hover{
 	background-color: grey;
 	text-shadow: 1px 1px 1px;
